@@ -19,3 +19,9 @@ Attribute Information:
 * Seasons - Winter, Spring, Summer, Autumn
 * Holiday - Holiday/No holiday
 * Functional Day - NoFunc(Non Functional Hours), Fun(Functional hours)
+
+
+
+# To Do
+* Add Cross Validation Testing
+* Test Ridge Regression
